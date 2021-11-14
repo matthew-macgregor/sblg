@@ -1,4 +1,5 @@
-Copyright (c) 2012--2016, Kristaps Dzonsons <kristaps@bsd.lv>
+Original Copyright (c) 2012--2016, Kristaps Dzonsons <kristaps@bsd.lv>
+Portions Copyright (c) 2021, Matthew MacGregor <m.macgregor@gmail.com>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose
 with or without fee is hereby granted, provided that the above copyright notice

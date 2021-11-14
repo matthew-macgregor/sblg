@@ -36,7 +36,7 @@ HTMLS 		 = archive.html \
 CSSS 		 = index.css
 DATADIR	 	 = $(SHAREDIR)/sblg
 EXAMPLEDIR	 = $(DATADIR)/examples
-WWWDIR		 = /var/www/vhosts/kristaps.bsd.lv/htdocs/sblg
+WWWDIR		 = ./www
 DOTAR 		 = Makefile \
 		   $(SRCS) \
 		   sblg.in.1 \
